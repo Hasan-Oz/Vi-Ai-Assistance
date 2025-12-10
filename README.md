@@ -24,7 +24,7 @@ Jarvis is a high-speed, voice-activated desktop assistant inspired by the J.A.R.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Jarvis-AI-Assistant-Gemini.git
+git clone https://github.com/Hasan-Oz/Jarvis-AI-Assistant-Gemini.git
 cd Jarvis-AI-Assistant-Gemini
 
 # Create and activate a virtual environment
